@@ -4,4 +4,4 @@
 补丁本体遵循MIT Open Source License。允许任何人复制使用以及修改。分发时请附带MIT授权协议。
 严禁录播以及直播。
 原始文本归PULLTOP所有。
-![image](http://github.com/jszhtian/oozora_CHSpatch/raw/master/staff.jpg)
+![image](https://raw.githubusercontent.com/jszhtian/oozora_CHSpatch/master/staff.jpg)
