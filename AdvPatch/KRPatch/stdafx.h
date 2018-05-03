@@ -30,7 +30,7 @@
 #include <mutex>
 #include "zlib.h"
 #pragma comment(lib, "detours.lib")
-#pragma comment(lib,"zlib.lib")
+//#pragma comment(lib,"zlib.lib")
 
 
 
